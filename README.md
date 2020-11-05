@@ -1,2 +1,3 @@
-# amplify-static-web-site-1
-GitHub → (automatically) → Amplify
+# About
+* static web site
+* GitHub → (automatically) → Amplify
